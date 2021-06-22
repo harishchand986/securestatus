@@ -1,2 +1,2 @@
-# securestatus
+# secure status
 Secure status
